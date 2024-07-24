@@ -1,2 +1,12 @@
 elasticsearch:8.14.3
 python:alpine3.19
+bifromq/bifromq
+emqx
+tdengine/tdengine
+apache/kafka:3.7.0
+rabbitmq:3.13.3
+nginx
+redis
+mysql
+openjdk:8-jre
+xuxueli/xxl-job-admin:2.3.1
