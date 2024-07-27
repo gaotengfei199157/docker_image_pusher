@@ -12,3 +12,4 @@ openjdk:8-jre
 xuxueli/xxl-job-admin:2.3.1
 grafana/grafana-enterprise
 emqx:5.1
+nginx:stable
