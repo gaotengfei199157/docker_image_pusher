@@ -17,3 +17,5 @@ apacherocketmq/rocketmq-dashboard
 apache/rocketmq:5.3.0
 wdkang/kafka-console-ui
 bitnami/kafka:3.6.2
+ubuntu:22.04
+centos7.8.2003
