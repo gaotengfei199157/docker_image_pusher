@@ -15,3 +15,5 @@ emqx:5.1
 nginx:stable
 apacherocketmq/rocketmq-dashboard
 apache/rocketmq:5.3.0
+wdkang/kafka-console-ui
+bitnami/kafka:3.6.2
