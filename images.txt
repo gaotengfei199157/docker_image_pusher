@@ -1,4 +1,5 @@
-elasticsearch:8.14.3
+elasticsearch:8.15.0
+kibana:8.15.0
 python:alpine3.19
 bifromq/bifromq
 emqx
