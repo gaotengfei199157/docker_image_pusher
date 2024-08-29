@@ -26,3 +26,5 @@ milvusdb/milvus:v2.4.9
 zilliz/attu:v2.3.6
 chat2db/chat2db
 restcloud/restcloud-etl
+elasticsearch:7.17.3
+kibana:7.17.3
