@@ -38,3 +38,4 @@ mysql:8.0.36
 ghcr.io/songquanpeng/one-api:v0.6.7
 ollama/ollama
 onerahmet/openai-whisper-asr-webservice
+wzpan/wukong-robot
