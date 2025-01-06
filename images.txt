@@ -40,3 +40,4 @@ ollama/ollama
 onerahmet/openai-whisper-asr-webservice
 wzpan/wukong-robot
 yhirose4dockerhub/ubuntu-builder
+tdengine/tdengine
