@@ -43,3 +43,4 @@ tdengine/tdengine
 mcr.microsoft.com/mssql/server
 registry.hf.space/k2-fsa-automatic-speech-recognition:latest
 paddlecloud/paddlespeech:develop-cpu-fb4d25
+apache/kafka:4.0.0
