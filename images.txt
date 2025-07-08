@@ -1,1 +1,2 @@
 ghcr.io/nextcloud-releases/all-in-one:latest
+mariadb:10.6
