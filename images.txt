@@ -1,3 +1,4 @@
 ghcr.io/nextcloud-releases/all-in-one:latest
 mariadb:10.6
 nextcloud
+nacos/nacos-server:v3.0.2
